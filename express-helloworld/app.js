@@ -12,7 +12,7 @@ app.get('/', function (req, res) {
 
   //send the response to the client
   res.send(response);
-
+});
 //app.get('/frank', function (req, res) {
 //  res.send('Hello Frank! esto es una prueba\n');
 //});
